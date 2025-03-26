@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# But track only Java files in specific folders
+!/Recursion/*.java
+!/Tree/*.java
+!/Sorting/*.java
+!/String/*.java
+
+# Ignore unnecessary files
+.idea/
+*.class
+*.xml
+out/
+node_modules/
+
